@@ -30,11 +30,6 @@ All wrapped in a layered architecture, Dockerized, and spiced with some Go humor
 - **Validator**: Ensures you’re not sending me Moon coordinates.
 - **Docker**: Containers are life.
 - **Rate Limiting**: Keeps the server safe from your enthusiasm.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VrcjNkdTJkMDVrczVydjV4c3R5aGZhOXdmdjdqcTZhN3Y5ODN5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tPskse8zR2Wkwu4/giphy.gif" alt="Go Tools" width="250"/>
-</p>
-
 ---
 
 ## Architecture (or "How Does It Stand?") 🏗️
