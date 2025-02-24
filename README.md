@@ -80,16 +80,3 @@ Location-app/
    docker-compose up --build
 Done! API is live at http://localhost:3000.
 <p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQyZmQzMzMwYTU4MWM5Y2Q3N2U2MjVjMzM5NTVjYjI3ZjMwYzMwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Running Code" width="300"/> </p>
-Bonus Points (or "What I’m Proud Of?") 🎉
-Clean Code: As Rob Pike said, "Clarity is better than cleverness".
-Haversine: Distances without Google Maps — just math and Go!
-Rate Limiting: 100 requests per minute, chill out, bro.
-Dockerized: Everything in containers, like a pro DevOps.
-Want tests, CI/CD, or deployment? That’s the next chapter!
-
-Gopher Jokes 😂
-Why do Go devs love simplicity? Because if err != nil is half the program!
-
-What’s a Gopher’s favorite dance? The Concurrency Shuffle!
-
-What did the Gopher say about my code? "Nice goroutines, bro!"
