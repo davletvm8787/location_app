@@ -89,6 +89,7 @@ Want tests, CI/CD, or deployment? That’s the next chapter!
 
 Gopher Jokes 😂
 Why do Go devs love simplicity? Because if err != nil is half the program!
+
 What’s a Gopher’s favorite dance? The Concurrency Shuffle!
+
 What did the Gopher say about my code? "Nice goroutines, bro!"
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY0YzU5YzZmNGVjYzZmY2Y5ZjYyY2Q4ZmY2YzkyOWYxZmQyYzQyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Zt6KHxJTbXCnSso/giphy.gif" alt="Gopher Laugh" width="250"/> </p>
