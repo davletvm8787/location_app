@@ -3,7 +3,7 @@
 Welcome to **Location-App** — a REST API for managing locations, crafted in pure Go! Here we add points, draw routes, and calculate distances "as the crow flies" (Haversine, say hi!). This project is my ticket to the Golang dev world, and I’ve poured my heart, code, and a bit of Gopher magic into it.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JsE9qXI0K26N3zXrlQ/giphy.gif" alt="Gopher Dance" width="300"/>
+  <img src="[https://media.giphy.com/media/JsE9qXI0K26N3zXrlQ/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJmd2JkYXhmM3Z1dWR0Zjc1aWYzN2I0cTN6bmtlaXhmdXlvNXRjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" alt="Gopher Dance" width="300"/>
 </p>
 
 ---
