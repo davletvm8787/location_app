@@ -1,9 +1,9 @@
 # Location-App: A Go Adventure with Maps and Routes! 🚀
 
-**Location-App** — a REST API for managing locations, crafted in pure Go! Here we add points, draw routes, and calculate distances "as the crow flies" (Haversine, say hi!). This project is my ticket to the Golang dev world, and I’ve poured my heart, code, and a bit of Gopher magic into it.
+Welcome to **Location-App** — a REST API for managing locations, crafted in pure Go! Here we add points, draw routes, and calculate distances "as the crow flies" (Haversine, say hi!). This project is my ticket to the Golang dev world, and I’ve poured my heart, code, and a bit of Gopher magic into it.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/8UGoRT66PnY6c/giphy.gif" alt="Gopher Dance" width="300"/>
+  <img src="https://media.giphy.com/media/JsE9qXI0K26N3zXrlQ/giphy.gif" alt="Gopher Dance" width="300"/>
 </p>
 
 ---
@@ -32,7 +32,7 @@ All wrapped in a layered architecture, Dockerized, and spiced with some Go humor
 - **Rate Limiting**: Keeps the server safe from your enthusiasm.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0IylSBOt4oEmXIs8/giphy.gif" alt="Go Tools" width="250"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VrcjNkdTJkMDVrczVydjV4c3R5aGZhOXdmdjdqcTZhN3Y5ODN5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tPskse8zR2Wkwu4/giphy.gif" alt="Go Tools" width="250"/>
 </p>
 
 ---
@@ -42,5 +42,4 @@ All wrapped in a layered architecture, Dockerized, and spiced with some Go humor
 Layers, like a tasty cake:
 - **Handlers**: Hey, HTTP! Parsing requests and sending responses.
 - **Services**: Business logic, including Haversine magic for distances.
-- **Repository**: Chats with the database like an old buddy.
-- **Models**: Just structs. Pure as a Gopher’s tear.
+- **Repository**: Ch
