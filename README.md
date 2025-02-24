@@ -1,6 +1,6 @@
-# Location-App: A Go Adventure with Maps and Routes! 🚀
+# A Go Adventure with Maps and Routes! 🚀
 
-Welcome to **Location-App** — a REST API for managing locations, crafted in pure Go! Here we add points, draw routes, and calculate distances "as the crow flies" (Haversine, say hi!). This project is my ticket to the Golang dev world, and I’ve poured my heart, code, and a bit of Gopher magic into it.
+ **Location-App** — a REST API for managing locations, crafted in pure Go! Here we add points, draw routes, and calculate distances "as the crow flies" (Haversine, say hi!). This project is my ticket to the Golang dev world, and I’ve poured my heart, code, and a bit of Gopher magic into it.
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTg0ZWkzNnVmMGZybWR4cjg1eDRrOGswaTFwMTdyc2Jod2g4bndvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/en4M5qpoxaOyUcDmYU/giphy.gif" alt="Gopher Dance" width="300"/>
