@@ -46,17 +46,21 @@ Layers, like a tasty cake:
 - **Models**: Just structs. Pure as a Gopher’s tear.
 
   
-ocation-app/
-├── cmd/                  # Entry point (main.go)
-├── internal/             # The juicy stuff
-│   ├── handlers/         # HTTP magic
-│   ├── models/           # Data structs
-│   ├── repository/       # Database ops
-│   ├── services/         # Logic layer
-│   └── middleware/       # Rate Limiting
-├── Dockerfile            # Docker, my captain!
-├── docker-compose.yml    # Orchestration
-└── README.md             # You’re here!
+```
+Location-app/
+├── cmd
+│ └── app_configs.dart
+│
+├── internal
+│ ├── handlers
+│ ├── models
+│ ├── repository
+│ ├── services
+│ └── middleware
+├── Dockerfile
+│ └── docker-compose.yml #Orchestration
+....
+```
 
 ---
 
