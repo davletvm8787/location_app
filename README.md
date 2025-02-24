@@ -44,6 +44,8 @@ Layers, like a tasty cake:
 - **Services**: Business logic, including Haversine magic for distances.
 **Repository**: Chats with the database like an old buddy.
 - **Models**: Just structs. Pure as a Gopher’s tear.
+
+  
 location-app/
 ├── cmd/           # Entry point (main.go)
 ├── internal/      # The juicy stuff
