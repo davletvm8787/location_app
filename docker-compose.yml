@@ -1,21 +1,26 @@
-version: '3'
+version: '3.8'
 services:
   app:
     build: .
     ports:
       - "3000:3000"
-    depends_on:
-      - db
     environment:
-      - DATABASE_URL=root:password@tcp(db:3306)/locations?parseTime=true
-
-  db:
+      - DB_HOST=mysql
+      - DB_USER=app_user
+      - DB_PASSWORD=secure_password
+      - DB_NAME=location_app
+    depends_on:
+      - mysql
+  mysql:
     image: mysql:8.0
     environment:
-      - MYSQL_ROOT_PASSWORD=password
-      - MYSQL_DATABASE=locations
+      MYSQL_ROOT_PASSWORD: root_password
+      MYSQL_DATABASE: location_app
+      MYSQL_USER: app_user
+      MYSQL_PASSWORD: secure_password
+    ports:
+      - "3306:3306"
     volumes:
-      - dbdata:/var/lib/mysql
-
+      - mysql_data:/var/lib/mysql
 volumes:
-  dbdata:
+  mysql_data:
